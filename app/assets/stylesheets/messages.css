@@ -40,6 +40,15 @@
     padding: 0 20px;
 }
 
+.room {
+    padding: 20px 0 40px;
+}
+
+.room-name a {
+    text-decoration: none;
+    color: white;
+}
+
 .chat {
     width: calc(100% - 300px);
     background-color: #ffffff;
